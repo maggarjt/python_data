@@ -1,2 +1,2 @@
 # python_data
-Files for Python Data Class IBM/EDx
+Daily Python coding after studying IT class and future reference
