@@ -7,3 +7,5 @@ number_repr.py    ====   f string formatting for hard to read numbers
 opening.py   === open and close files without manually closing
 
 lit_iter_index.py === set, zip, map examples with f string formatting
+
+sql.txt === sql selection resource for SQLZOO problems
